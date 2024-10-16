@@ -1,2 +1,2 @@
 # unode-scripts
-End user scripts
+End user script
